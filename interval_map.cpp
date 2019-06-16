@@ -140,12 +140,12 @@ int main()
 interval_map<unsigned int, char> Think_Cell_Map {'A'};  
 cout << "**************************************************"<< endl;
 cout << "**************************************************"<< endl;
-cout << "***  Test assignment Think-Cell C++ Develover  ***"<< endl;
+cout << "***                                            ***"<< endl;
 cout << "*** \t \t                \t       ***"<< endl;
 cout << "*** \t \tTalal Alhammami \t       ***"<< endl;
 cout << "*** \t \t 16.06.2019     \t       ***"<< endl;
 cout << "*** \t \t  19:25 Uhr     \t       ***"<< endl;
-cout << "***  Test assignment Think-Cell C++ Develover  ***"<< endl;
+cout << "***                                            ***"<< endl;
 cout << "**************************************************"<< endl;
 cout << "**************************************************"<< endl;
 	Think_Cell_Map.test_interval_map();
